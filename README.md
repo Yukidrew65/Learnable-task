@@ -37,6 +37,7 @@ git rebase main
 ```
 
 Run this while on your feature branch. It replays your commits on top of the latest `main` branch.
+Run this while on your feature branch. It replays your commits on top of the latest `main` branch.
 
 ## Git Cherry-Pick
 
