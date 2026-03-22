@@ -36,7 +36,8 @@ Rebase moves your branch's commits on top of another branch's latest commits, as
 git rebase main
 ```
 
-Runn this while on your feature branch. It replays your commits on top of the latest `main` branch.
+Run this while on your feature branch. It replays your commits on top of the latest `main` branch.
+Run this while on your feature branch. It replays your commits on top of the latest `main` branch.
 
 ## Git Cherry-Pick
 
