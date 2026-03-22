@@ -2,7 +2,7 @@
 
 ## What is Version Control?
 
-Version control is a system that tracks and records changes to files over time. It lets you revisit earlier versions, see who changed what, and collaborate with others without overwriting each other's work. Think of it like an "undo history" for your entire project — but one that never disappears and that multiple people can use at once.
+Version control is a system that tracks and records changes to files over time. It lets you revisit earlier versions, see who changed what, and collaborate with others without overwriting each other's work. Think of it like an "undo history" for your entire project but one that never disappears and that multiple people can use at once.
 
 ## Difference Between Git and GitHub
 
